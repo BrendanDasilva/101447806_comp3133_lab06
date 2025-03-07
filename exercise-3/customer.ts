@@ -1,4 +1,4 @@
-// exercise 2 - types, classes and objects
+// exercise 3 - access modifiers and constructors
 class Customer {
   private firstName: string;
   private lastName: string;
